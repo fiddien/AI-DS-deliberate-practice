@@ -24,4 +24,5 @@ Some new concepts learned (but may not be shown in the notebooks):
 
 To do:
 [ ] upload Bangkit assignments (which is a lot!)
+
 [ ] produce some articles my works here in my blog [ilmaaliyaf.github.com](https://ilmaaliyaf.github.com)
