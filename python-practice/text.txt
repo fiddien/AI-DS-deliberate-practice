@@ -1,5 +1,0 @@
-In the introductory course to Python, we provided information to our scripts by creating variables and passing parameters to our functions with the values that we wanted. 
-This works fine for small scripts, but it's usually not ideal for larger jobs. When processing large chunks of data, it's a good idea to read that data from files. 
-In programming, we work with files all the time. 
-It's such a useful task that most programming languages have the ability to work with files baked into the core set of features. Python is no exception. 
-It gives us file objects which we can use to read and write to files. To open a file on a computer called spider.txt, we can write this code.
