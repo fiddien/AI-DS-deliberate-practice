@@ -26,7 +26,7 @@ Traditional practice is doing things in mindless repetition. Deliberate practice
 - mentally demanding, and ultimately
 - not fun.
 
-![Deliberate Practice comparison to Just Practice - From Billy Taylor’s KataCon6 Presentation](deliberate-practice-chart.png)
+![Deliberate Practice comparison to Just Practice - From Billy Taylor’s KataCon6 Presentation](deliberate-practice-comparison-chart.png)
 
 So, in applying deliberate practice (duh), there should exist
 - a success definition,
