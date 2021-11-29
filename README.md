@@ -1,7 +1,31 @@
-# learn-deep-learning
+# Learn AI & DS with Deliberate Practice
 
-A place to store notebooks when I'm first learning deep learning. A lot of them will be from MA4072 Pembelajaran Mendalam class which was held in 2020/2021 academic year, second semester.
+## Why learn Artificial Intelligence?
 
+
+## Why lean Data Science?
+
+## Why learn both AI and DS?
+
+## What is deliberate practice?
+
+
+1. designed to improve performance,
+2. repeat things a lot,
+3. need feedbacks continously,
+4. mentally demanding, and ultimately
+5. not fun.
+
+So far, I have planned to learn (or re-learn) the following topics:
+1. Fundamentals of AI
+2. Machine Learning
+3. Deep Learning
+4. Computer Vision
+5. Natural Language Processing
+6. Reinforcement Learning
+7. 
+
+There is a MA4072 Pembelajaran Mendalam
 Topics covered:
 - Regression with neural network from stratch
 - Neural network from stratch for stock prediction
@@ -11,19 +35,3 @@ Topics covered:
 - Dictionary-based Twitter Sentiment Analysis on SNMPTN 2021 result
 - N-gram prediction on Rhoma Irama's songs lyrics
 - Reinforcement Learning with Q-Learning for robot movement path in ITB CAS Building 4th floor
-
-All using Python with sometimes using framework like PyTorch and Tensorflow.
-
-Some new concepts learned (but may not be shown in the notebooks):
-- fundamental difference between machine learning and conventional programming
-- fundamental difference between machine learning models and statistical models
-- forward and backward propagation
-- gradient descent optimizers
-- computational graphs
-- dynamic programming
-
-To do:
-
-[ ] upload Bangkit assignments (which is a lot!)
-
-[ ] produce some articles my works here in my blog [ilmaaliyaf.github.com](https://ilmaaliyaf.github.com)
