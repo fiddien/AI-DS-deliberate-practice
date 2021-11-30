@@ -28,12 +28,12 @@ Traditional practice is doing things in mindless repetition. Deliberate practice
 
 ![Deliberate Practice comparison to Just Practice - From Billy Taylor’s KataCon6 Presentation](deliberate-practice-comparison-chart.png)
 
-So, in applying deliberate practice (duh), there should exist
+So, in applying deliberate practice, there should exist
 - a success definition,
 - a contingent plan and strategies,
 - a learning management,
 - a space and time to reflect and review, and
-- determinations,
+- determinations
 
 for this learning project.
 
