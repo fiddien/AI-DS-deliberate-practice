@@ -13,7 +13,7 @@ Topik yang akan dibahas:
 - Deep Q-Networks
 - Deep Reinforcement Learning
 - Metode Policy-Based
-- Metode Polify Gradient
+- Metode Policy Gradient
 - Proximal Policy Optimization
 - Metode Actor-Critic
 - Multi-Agent Reinforcement Learning
